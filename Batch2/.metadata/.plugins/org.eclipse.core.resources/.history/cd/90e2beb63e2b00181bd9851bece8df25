@@ -1,0 +1,9 @@
+package com.cts;
+
+public class ex {
+
+	public ex() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

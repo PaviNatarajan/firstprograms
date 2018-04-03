@@ -1,0 +1,9 @@
+package springtut;
+
+public class springtut {
+
+	public springtut() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

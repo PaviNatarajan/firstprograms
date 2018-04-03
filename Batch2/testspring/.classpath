@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_141"/>
+	<classpathentry kind="lib" path="D:/R 19/mysql-connector-java-5.1.42.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/jars-spring/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/jars-spring/spring-aop-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/jars-spring/spring-aspects-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/jars-spring/spring-beans-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/jars-spring/spring-context-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/jars-spring/spring-core-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/jars-spring/spring-expression-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/jars-spring/spring-jdbc-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/libs/spring-test-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/libs/spring-tx-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/batch2jarfiles/spring-framework-4.1.0.RELEASE-dist/spring-framework-4.1.0.RELEASE/libs/spring-instrument-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

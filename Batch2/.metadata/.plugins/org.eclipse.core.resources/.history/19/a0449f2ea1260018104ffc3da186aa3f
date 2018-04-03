@@ -1,0 +1,9 @@
+package springtut;
+
+public class res {
+
+	public res() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
